@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome! I share my data science and frontend projects and learnings here. 
 
 <!--
 **RakeshIIT/RakeshIIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

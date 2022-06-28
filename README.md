@@ -6,8 +6,6 @@
 - 👯 I’m looking to collaborate on data science projects
 - 🤔 I’m looking for help with Auto-ML
 - 💬 Ask me about getting started with Data Science
-- 📫 How to reach me: Linkedin -> Rakesh Doddamani
-
-<a href="https://www.linkedin.com/in/rakeshrdoddamani/" imageanchor="1"><img src="https://www.linkedin.com/in/rakeshrdoddamani/" border="0"></a>
+- 📫 How to reach me: Linkedin -> Rakesh Doddamani <a href="https://www.linkedin.com/in/rakeshrdoddamani/" imageanchor="1"><img src="https://www.linkedin.com/in/rakeshrdoddamani/" border="0"></a>
 
 ### Here are few of my popular repositories 👇

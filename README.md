@@ -1,4 +1,5 @@
-### Hi there 👋 Welcome! I share my data science and frontend projects and learnings here. 
+### Hi, I am Rakesh 👋
+### Welcome! I share my data science and frontend projects and learnings here. 
 
 - 🔭 I’m currently working on reatil projects
 - 🌱 I’m currently learning deep learning

@@ -1,5 +1,5 @@
 ### Hi, I am Rakesh 👋
-### Welcome! I share my data science and frontend projects and learnings here. I am Data Science Analyst with 1-year experience in the Data Science domain
+### Welcome to my GitHub space! I share here my learning from data science and frontend projects. I am Data Science Analyst with 1-year experience in the Data Science domain currently working in Accenture.
 
 - 🔭 I’m currently working on reatil projects
 - 🌱 I’m currently learning deep learning

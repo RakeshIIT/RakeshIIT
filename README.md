@@ -1,5 +1,5 @@
 ### Hi, I am Rakesh 👋
-### Welcome! I share my data science and frontend projects and learnings here. 
+### Welcome! I share my data science and frontend projects and learnings here. I am Data Science Analyst with 1-year experience in the Data Science domain
 
 - 🔭 I’m currently working on reatil projects
 - 🌱 I’m currently learning deep learning

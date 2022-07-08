@@ -1,7 +1,7 @@
 [![MasterHead](https://www.teahub.io/photos/full/88-885793_data-science.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rakesh</h1>
-<h3 align="center">A passionate data science analyst from India</h3>
-<h5 align="left">Welcome to my GitHub space! I share here my learning from data science and frontend projects. I am Data Science Analyst with 1-year experience in the Data Science domain currently working in Accenture</h5>
+<h3 align="center">A passionate coder from India</h3>
+<h6 align="left">Welcome to my github space! I am Data Science Analyst with 1-year experience in the Data Science domain currently working in Accenture. I have a keen interest in cloud technology and deep learning applications. </h6>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshiit&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshiit" /> </p>

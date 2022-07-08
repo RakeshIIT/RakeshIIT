@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpaperaccess.com/full/3414990.jpg)](https://rishavchanda.io)
+[![MasterHead](https://www.teahub.io/photos/full/88-885793_data-science.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rakesh</h1>
 <h3 align="center">A passionate data science analyst from India</h3>
 <h5 align="left">Welcome to my GitHub space! I share here my learning from data science and frontend projects. I am Data Science Analyst with 1-year experience in the Data Science domain currently working in Accenture</h5>

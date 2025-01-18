@@ -6,8 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshiit&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshiit" /> </p>
 
-- 🔭 I’m currently working on CV based projects
-- 🌱 I’m currently learning MLOps (Machine learning in production)
+- 🔭 I’m currently working building Demand Planning Solutions for leading apparel and footware clients
+- 🌱 I’m am parallely work on NLP projects mainly focusing on LLMs and chatbots.
 - 👯 I’m looking to collaborate on data science projects
 - 💬 Ask me about getting started with Data Science
 
